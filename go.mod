@@ -1,4 +1,4 @@
-module go-png2ico
+module github.com/devhindo/go-png2ico
 
 go 1.20
 
